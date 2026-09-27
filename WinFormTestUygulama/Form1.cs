@@ -141,3 +141,5 @@ namespace WinFormTestUygulama
 // Veri tabanýný kullanýcý adý þifre için ayarlamadýk ama statik bir kullanýcý adý ve þifreyle bir de kullanýcý giriþ paneli yapalým.
 // Kullanýcý adý admin, þifre 12345 olsun
 // önce formu yapalým.
+
+///TaskDialogVerificationCheckBox tabanýnýn yüklenmesi..
